@@ -1,79 +1,38 @@
-1"}
 # ❄️ WOSBot — Whiteout Survival Automation Tool
 
-<p align="center">
-  <img src="https://wos.gamescriptbot.com/favicon.ico" width="160"/>
-</p>
+WOSBot is an advanced automation tool designed specifically for the mobile strategy game **Whiteout Survival**.
 
-<p align="center">
-  Advanced Automation Tool for Whiteout Survival
-</p>
+It helps players automate repetitive tasks, manage multiple game instances, and significantly improve gameplay efficiency.
 
-<p align="center">
-
-![Platform](https://img.shields.io/badge/platform-Android-green)  
-![Automation](https://img.shields.io/badge/type-Automation-orange)  
-![Game](https://img.shields.io/badge/game-Whiteout%20Survival-blue)
-
-</p>
-
----
-
-# 🌐 Official Website
-
-https://wos.gamescriptbot.com/
-
-Download the latest version and documentation from the official website.
-
----
-
-# 🇨🇳 中文介绍
-
-**WOSBot** 是一个专门为手游 **《寒霜启示录》(Whiteout Survival)** 开发的高级自动化脚本工具。
-
-它可以帮助玩家自动完成大量重复操作，例如：
-
-- 自动训练部队
-- 自动升级建筑
-- 自动采集资源
-- 自动执行日常任务
-- 自动地图操作
-- 多模拟器管理
-
-通过自动化系统，让玩家专注于策略，而不是重复点击。
-
-官方网站：
-
+🌐 Official Website  
 https://wos.gamescriptbot.com/
 
 ---
 
-# 🚀 Features 功能
+## 🚀 Features
 
-### Automation 自动化
+WOSBot provides powerful automation features:
 
-- 🤖 Full Automatic Gameplay
+- 🤖 Fully Automated Gameplay
 - ⚔️ Auto Troop Training
-- 🏗 Auto Building Upgrade
+- 🏗 Auto Building Upgrades
 - 📦 Auto Resource Gathering
 - 🎯 Auto Daily Tasks
-- 🗺 Auto Map Actions
-
-### Advanced System 高级系统
-
-- 🧠 Smart Automation Logic
+- 🗺 Auto Map Operations
 - 📱 Multi Emulator Support
-- ⚡ High Performance Engine
-- 🔄 Continuous Updates
+- 🧠 Smart Automation Logic
+- ⚡ High Performance Automation Engine
+
+WOSBot allows players to focus on strategy while the bot handles repetitive operations.
 
 ---
 
-# 🖥 Supported Environment
+## 🖥 Supported Platforms
 
-Supported platforms:
+WOSBot supports multiple environments:
 
 - Android Emulator
-- Android Device
+- Android Devices
 - Windows
 - macOS
 - Linux
@@ -84,81 +43,85 @@ Recommended emulators:
 - BlueStacks
 - Android Emulator
 
-ADB connection supported.
+ADB connection is supported.
 
 ---
 
-# ⚙️ Installation 安装
+## ⚙️ Installation
 
-### 1️⃣ Download
+### 1. Download
 
-Download the latest version from the official website
+Download the latest version from the official website:
 
 https://wos.gamescriptbot.com/
 
 ---
 
-### 2️⃣ Install
+### 2. Install
 
 Install the software on your system.
 
 ---
 
-### 3️⃣ Connect Device
+### 3. Connect Device
 
 Connect your Android emulator or device using **ADB**.
 
 ---
 
-### 4️⃣ Configure
+### 4. Configure Tasks
 
-Configure the automation tasks.
+Configure the automation tasks you want to run.
 
 ---
 
-### 5️⃣ Run
+### 5. Start Automation
 
 Start WOSBot and enjoy automated gameplay.
 
 ---
 
-# 💡 Why WOSBot?
+## 💡 Why WOSBot?
 
 | Feature | WOSBot |
 |------|------|
 | Smart Automation | ✅ |
-| Multi Account | ✅ |
+| Multi Instance Support | ✅ |
 | Stable Runtime | ✅ |
 | Advanced Task System | ✅ |
 | Continuous Updates | ✅ |
 
 ---
 
-# ⭐ Support the Project
+## 🌐 Official Website
 
-If you like this project:
-
-⭐ Star this repository  
-🌍 Visit the official website  
-📢 Share with other players
-
-Official Website:
+For downloads, updates, and documentation:
 
 https://wos.gamescriptbot.com/
 
 ---
 
-# ⚠️ Disclaimer
+## ⭐ Support the Project
 
-This project is provided for **research and educational purposes only**.
+If you like this project, please consider:
+
+- ⭐ Starring this repository
+- 🌍 Visiting the official website
+- 📢 Sharing with other players
+
+---
+
+## ⚠️ Disclaimer
+
+This project is provided for **educational and research purposes only**.
 
 Using automation tools in games may violate the game's terms of service.  
 The developers are not responsible for any account bans or penalties.
 
 ---
 
-# 📬 Contact
+## 📬 Contact
 
 Official Website
 
-https://wos.games
+https://wos.gamescriptbo
