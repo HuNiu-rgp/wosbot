@@ -1,5 +1,11 @@
 # ❄️ WOSBot — Whiteout Survival Automation Tool
 
+<p align="center">
+English | <a href="README_CN.md">中文</a>
+</p>
+
+---
+
 WOSBot is an advanced automation tool designed specifically for the mobile strategy game **Whiteout Survival**.
 
 It helps players automate repetitive tasks, manage multiple game instances, and significantly improve gameplay efficiency.
@@ -11,7 +17,7 @@ https://wos.gamescriptbot.com/
 
 ## 🚀 Features
 
-WOSBot provides powerful automation features:
+WOSBot provides powerful automation capabilities:
 
 - 🤖 Fully Automated Gameplay
 - ⚔️ Auto Troop Training
@@ -23,13 +29,9 @@ WOSBot provides powerful automation features:
 - 🧠 Smart Automation Logic
 - ⚡ High Performance Automation Engine
 
-WOSBot allows players to focus on strategy while the bot handles repetitive operations.
-
 ---
 
 ## 🖥 Supported Platforms
-
-WOSBot supports multiple environments:
 
 - Android Emulator
 - Android Devices
@@ -43,7 +45,7 @@ Recommended emulators:
 - BlueStacks
 - Android Emulator
 
-ADB connection is supported.
+ADB connection supported.
 
 ---
 
@@ -51,63 +53,35 @@ ADB connection is supported.
 
 ### 1. Download
 
-Download the latest version from the official website:
+Download the latest version from:
 
 https://wos.gamescriptbot.com/
-
----
 
 ### 2. Install
 
-Install the software on your system.
-
----
+Install the software.
 
 ### 3. Connect Device
 
-Connect your Android emulator or device using **ADB**.
+Connect Android emulator or device via **ADB**.
 
----
+### 4. Configure
 
-### 4. Configure Tasks
+Configure automation tasks.
 
-Configure the automation tasks you want to run.
+### 5. Start
 
----
-
-### 5. Start Automation
-
-Start WOSBot and enjoy automated gameplay.
-
----
-
-## 💡 Why WOSBot?
-
-| Feature | WOSBot |
-|------|------|
-| Smart Automation | ✅ |
-| Multi Instance Support | ✅ |
-| Stable Runtime | ✅ |
-| Advanced Task System | ✅ |
-| Continuous Updates | ✅ |
-
----
-
-## 🌐 Official Website
-
-For downloads, updates, and documentation:
-
-https://wos.gamescriptbot.com/
+Run WOSBot.
 
 ---
 
 ## ⭐ Support the Project
 
-If you like this project, please consider:
+If you like this project:
 
-- ⭐ Starring this repository
-- 🌍 Visiting the official website
-- 📢 Sharing with other players
+⭐ Star the repository  
+🌍 Visit the official website  
+📢 Share with other players
 
 ---
 
@@ -116,12 +90,9 @@ If you like this project, please consider:
 This project is provided for **educational and research purposes only**.
 
 Using automation tools in games may violate the game's terms of service.  
-The developers are not responsible for any account bans or penalties.
+Developers are not responsible for any account bans or penalties.
 
 ---
 
-## 📬 Contact
-
-Official Website
-
-https://wos.gamescriptbo
+🌐 Official Website  
+https://wos.gamescriptbot
