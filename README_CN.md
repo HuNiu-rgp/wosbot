@@ -33,17 +33,12 @@ WOSBot 提供强大的自动化功能：
 
 ## 🖥 支持环境
 
-- Android 模拟器
-- Android 手机设备
 - Windows
 - macOS
-- Linux
 
 推荐模拟器：
 
 - MuMu 模拟器
-- BlueStacks
-- Android Emulator
 
 支持 **ADB 设备连接**。
 
@@ -95,4 +90,4 @@ https://wos.gamescriptbot.com/
 ---
 
 🌐 官方网站  
-https://wos.gamescr
+[https://wos.gamescriptbot.com/](https://wos.gamescriptbot.com/)
