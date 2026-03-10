@@ -33,17 +33,12 @@ WOSBot provides powerful automation capabilities:
 
 ## 🖥 Supported Platforms
 
-- Android Emulator
-- Android Devices
 - Windows
 - macOS
-- Linux
 
 Recommended emulators:
 
-- MuMu Emulator
-- BlueStacks
-- Android Emulator
+- MuMuPlayer
 
 ADB connection supported.
 
@@ -95,4 +90,4 @@ Developers are not responsible for any account bans or penalties.
 ---
 
 🌐 Official Website  
-https://wos.gamescriptbot
+[https://wos.gamescriptbot.com](https://wos.gamescriptbot.com)
