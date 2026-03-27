@@ -66,7 +66,7 @@ https://wos.gamescriptbot.com/
 
 ### 5. 启动
 
-启动 WOSBot。
+启动 ScriptBot。
 
 ---
 
