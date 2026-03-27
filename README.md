@@ -66,7 +66,7 @@ Configure automation tasks.
 
 ### 5. Start
 
-Run WOSBot.
+Run ScriptBot.
 
 ---
 
