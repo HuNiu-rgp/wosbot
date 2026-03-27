@@ -1,4 +1,4 @@
-# ❄️ WOSBot — 寒霜启示录自动化工具
+# ❄️ ScriptBot/WOSBot — 寒霜启示录自动化工具
 
 <p align="center">
 <a href="README.md">English</a> | 中文
@@ -6,7 +6,7 @@
 
 ---
 
-**WOSBot** 是一个专门为手游 **《寒霜启示录》(Whiteout Survival)** 开发的高级自动化脚本工具。
+**ScriptBot/WOSBot** 是一个专门为手游 **《寒霜启示录》(Whiteout Survival)** 开发的高级自动化脚本工具。
 
 它可以帮助玩家自动完成大量重复操作，提高游戏效率，并支持多模拟器管理。
 
@@ -17,7 +17,7 @@ https://wos.gamescriptbot.com/
 
 ## 🚀 功能特点
 
-WOSBot 提供强大的自动化功能：
+ScriptBot/WOSBot 提供强大的自动化功能：
 
 - 🤖 全自动游戏操作
 - ⚔️ 自动训练部队
