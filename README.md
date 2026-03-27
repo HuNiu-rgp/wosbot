@@ -6,7 +6,7 @@ English | <a href="README_CN.md">中文</a>
 
 ---
 
-WOSBot is an advanced automation tool designed specifically for the mobile strategy game **Whiteout Survival**.
+ScriptBot/WOSBot is an advanced automation tool designed specifically for the mobile strategy game **Whiteout Survival**.
 
 It helps players automate repetitive tasks, manage multiple game instances, and significantly improve gameplay efficiency.
 
@@ -17,7 +17,7 @@ https://wos.gamescriptbot.com/
 
 ## 🚀 Features
 
-WOSBot provides powerful automation capabilities:
+ScriptBot provides powerful automation capabilities:
 
 - 🤖 Fully Automated Gameplay
 - ⚔️ Auto Troop Training
