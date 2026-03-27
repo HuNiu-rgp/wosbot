@@ -1,4 +1,4 @@
-# ❄️ WOSBot — Whiteout Survival Automation Tool
+# ❄️ ScriptBot — Whiteout Survival Automation Tool
 
 <p align="center">
 English | <a href="README_CN.md">中文</a>
