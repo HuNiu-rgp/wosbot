@@ -69,6 +69,9 @@ https://wos.gamescriptbot.com/
 启动 ScriptBot。
 
 ---
+![preview1](images/cn_1.png)
+![preview2](images/cn_2.png)
+![preview3](images/cn_3.png)
 
 ## ⭐ 支持项目
 
