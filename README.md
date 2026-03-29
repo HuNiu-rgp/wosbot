@@ -69,9 +69,9 @@ Configure automation tasks.
 Run ScriptBot.
 
 ---
-![preview1](image/en_1.png)
-![preview2](image/en_2.png)
-![preview3](image/en_3.png)
+![preview1](images/en_1.png)
+![preview2](images/en_2.png)
+![preview3](images/en_3.png)
 
 ## ⭐ Support the Project
 
