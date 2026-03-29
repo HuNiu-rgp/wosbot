@@ -69,6 +69,11 @@ Configure automation tasks.
 Run ScriptBot.
 
 ---
+<p align="center">
+  <img src="image/en_1.png" width="32%">
+  <img src="image/en_2.png" width="32%">
+  <img src="image/en_3.png" width="32%">
+</p>
 
 ## ⭐ Support the Project
 
